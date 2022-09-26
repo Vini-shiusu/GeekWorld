@@ -1,0 +1,43 @@
+.cardContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 20px;
+}
+
+.card{
+    box-shadow: 0px 2px 18px rgba(255, 51, 0, 0.425);
+    border-radius: 8px;
+    background-color: rgb(78, 78, 78);
+}
+
+.topCard{
+    padding: 10px;
+}
+
+.topDescribe{
+    padding-bottom: 20px;
+}
+
+.titulo{
+    padding-bottom: 10px;
+}
+
+.midCard{
+    background: url("https://static.wikia.nocookie.net/studio-ghibli/images/f/ff/Kiki%27s_Delivery_Service_English.jpg/revision/latest/top-crop/width/360/height/450?cb=20220413205802") center/cover;
+    height: 200px;
+    width: 100%;
+}
+
+.actionsLike{
+    background: none;
+    border: none;
+    color: rgb(253, 188, 9);
+}
+
+.actionsShare{
+    background: none;
+    border: none;
+    color: rgb(253, 188, 9);
+}

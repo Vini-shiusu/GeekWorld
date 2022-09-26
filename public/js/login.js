@@ -24,7 +24,7 @@ function entrar() {
                 sessionStorage.ID_USUARIO = json.id;
 
                 setTimeout(function () {
-                    window.location = "/index.html";
+                    window.location = "/index1.html";
                 }, 1000);
             });
 

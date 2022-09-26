@@ -50,3 +50,24 @@
 .argumento{
     margin-left: 400px;
 }
+.recente{
+    color: rgb(255, 251, 251);
+    width: 233px;
+}
+
+.model{
+    background-color: rgb(8, 8, 8);
+    margin-left: 19%;
+    padding: 10px;
+}
+
+
+.model .container {
+    margin-left: 3%;
+    background-color: hsl(0deg 5% 10%);
+    padding: 4px;
+    margin-right: 14%;
+    border-radius: 10px;
+    border-left: 14px solid rgb(249 165 40);
+}
+

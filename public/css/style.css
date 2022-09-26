@@ -53,7 +53,15 @@ body {
   height: fit-content;
   padding: 40px 0;
   color: white;
-  background-image: url(".././assets/imgs/bg-jelly-fish-para_outras_pags.png");
+  background-image: url("https://images.wallpapersden.com/image/download/cyberpunk-netflix-2022_bGZtZmuUmZqaraWkpJRmaGtrrWxrbQ.jpg");
+  background-size: cover;
+}
+
+.banner {
+  height: fit-content;
+  padding: 40px 0;
+  color: white;
+    background-image: url("http://images6.fanpop.com/image/photos/39600000/geeks-geekdom-39645835-2560-1600.jpg");
   background-size: cover;
 }
 
