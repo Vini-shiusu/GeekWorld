@@ -53,6 +53,7 @@ body {
   height: fit-content;
   padding: 40px 0;
   color: white;
+<<<<<<< HEAD
   background-image: url("https://images.wallpapersden.com/image/download/cyberpunk-netflix-2022_bGZtZmuUmZqaraWkpJRmaGtrrWxrbQ.jpg");
   background-size: cover;
 }
@@ -62,6 +63,9 @@ body {
   padding: 40px 0;
   color: white;
     background-image: url("http://images6.fanpop.com/image/photos/39600000/geeks-geekdom-39645835-2560-1600.jpg");
+=======
+  background-image: url("https://wallpaperaccess.com/full/303589.jpg");
+>>>>>>> 176e8ee6a095e1ebd2656e039ba3c34fc0a9963d
   background-size: cover;
 }
 
